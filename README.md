@@ -1,4 +1,4 @@
-# [Universal Online Judge](https://universaloj.github.io)
+# Universal Online Judge
 
 ![Universal Online Judge](http://uoj.ac/pictures/UOJ.png)
 
