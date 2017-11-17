@@ -1,4 +1,7 @@
-# Universal OJ
+<p align="center">
+<img src="http://uoj.ac/pictures/UOJ.png" alt="Universal Online Judge">
+</p>
+<h1 align="center"><a href="https://universaloj.github.io" target="_blank">Universal Online Judge</a></h1>
 
 这是一份民间的UOJ版本，我们希望它比官方版本更易用。
 
