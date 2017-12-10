@@ -4,10 +4,8 @@
 
 [![Docker Build Status](https://img.shields.io/docker/build/universaloj/uoj-system.svg)](https://hub.docker.com/r/universaloj/uoj-system/)
 
-Universal Online Judge (UOJ) is a universal online judge.
+Universal Online Judge (UOJ) is a universal online judge.  
 Universal Online Judge (UOJ) 是一个通用的程序在线评测系统。
-
-[![Docker Build Status](https://img.shields.io/docker/build/universaloj/uoj-system.svg)](https://hub.docker.com/r/universaloj/uoj-system/)
 
 这是一份民间的UOJ版本，我们希望它比官方版本更易用。
 
